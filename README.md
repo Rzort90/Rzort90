@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Rzort90/Rzort90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tim O./Tim O.** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
